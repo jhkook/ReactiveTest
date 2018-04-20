@@ -4,6 +4,9 @@ public class MainClass {
 
     public static void main(String[] args){
 
-        System.out.println("Hello");
+        ReactiveFunction function = new ReactiveFunction();
+        function.obserable_just();
+        function.obserable_create();
+
     }
 }
