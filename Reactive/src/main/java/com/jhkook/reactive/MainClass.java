@@ -6,7 +6,7 @@ public class MainClass {
 
         ReactiveFunction function = new ReactiveFunction();
         function.obserable_just();
-        function.obserable_create();
+
 
     }
 }
